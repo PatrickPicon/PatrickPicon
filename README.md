@@ -5,12 +5,16 @@
 - 📘 Estudando JavaScript/React
 - 😄 Pronouns: Ele/Dele
 
+![PatrickPicon's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickPicon&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPicon&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <div align="center">
   <a href="https://github.com/PatrickPicon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickPicon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickPicon&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
+-->
 ##
 
 <div style="display: inline_block"><br>
